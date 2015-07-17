@@ -18,6 +18,7 @@ var get=function(url){
 		req.send();
 	});
 };
+
 var getJSON=function(url){
 	return get(url).then(JSON.parse);
 };

@@ -1,0 +1,9 @@
+.followMeBar{
+	background-color: blue;
+}
+
+.stuck {
+  position:fixed;
+  top:0;
+  width: 50%;
+}
